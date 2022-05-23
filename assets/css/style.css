@@ -1,0 +1,9 @@
+.badge {
+	margin-left: 3px;
+	text-decoration: none;
+}
+
+.container-fluid.bg-fl img {
+	background-repeat: no-repeat;
+	background-size: cover;
+}
